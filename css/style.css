@@ -719,6 +719,8 @@ ol {
 	float: left;
 	margin-right: 17px;
 	overflow: hidden;
+	width:80px;
+	height:80px;
 }
 
 .trending-widget .tw-text .tw-meta {
