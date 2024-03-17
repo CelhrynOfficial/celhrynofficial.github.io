@@ -1247,6 +1247,11 @@ ol {
 	margin-bottom: 20px;
 }
 
+.game-single-content .game {
+	height: fit-content;
+	width: fit-content;
+}
+
 .game-single-content .gs-meta a {
 	color: #b01ba5;
 }
@@ -1260,6 +1265,8 @@ ol {
 .game-single-content h4 {
 	color: #b01ba5;
 	margin-bottom: 20px;
+	width: fit-content;
+	height: fit-content;
 }
 
 .game-single-content p {
@@ -1365,8 +1372,9 @@ ol {
 	margin-bottom: 20px;
 }
 
-.game-author-info h4 span {
-	color: #b01ba5;
+.game {
+	width: fit-content;
+	height: fit-content;
 }
 
 .game-author-info p {
